@@ -1,0 +1,15 @@
+name: Microservices Design Patterns
+description: Architectural patterns and best practices for designing, building, and
+  maintaining microservices-based applications, including patterns for communication,
+  data management, deployment, and resilience. It is essential for building resilient,
+  horizontally scalable systems that handle high throughput and availability demands.
+url: https://microservices.io/patterns/index.html
+tags:
+- Microservices
+- Architecture
+- Design Patterns
+- Distributed Systems
+created: '2025'
+modified: '2025'
+apis: []
+common: []
