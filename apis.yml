@@ -1,15 +1,24 @@
+aid: microservices-design-patterns
 name: Microservices Design Patterns
-description: Architectural patterns and best practices for designing, building, and
-  maintaining microservices-based applications, including patterns for communication,
-  data management, deployment, and resilience. It is essential for building resilient,
-  horizontally scalable systems that handle high throughput and availability demands.
-url: https://microservices.io/patterns/index.html
+description: >-
+  Architectural patterns and best practices for designing, building, and
+  maintaining microservices-based applications, including patterns for
+  communication, data management, deployment, and resilience.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/microservices-design-patterns/refs/heads/main/apis.yml
 tags:
-- Microservices
-- Architecture
-- Design Patterns
-- Distributed Systems
-created: '2025'
-modified: '2025'
+  - Microservices
+  - Architecture
+  - Design Patterns
+  - Distributed Systems
+  - Software Engineering
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
