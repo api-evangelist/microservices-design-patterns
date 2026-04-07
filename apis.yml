@@ -9,10 +9,10 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/microservices-design-patterns/refs/heads/main/apis.yml
 tags:
-  - Microservices
   - Architecture
   - Design Patterns
   - Distributed Systems
+  - Microservices
   - Software Engineering
 created: '2025-01-01'
 modified: '2026-03-16'
